@@ -16,3 +16,5 @@ def main():
 if __name__ == '__main__':
 	#app=Flask(static_folder='//Users//mkiran//SWProjects//indi//intentmodules//test-ouput')
 	app.run()
+
+	Cheers
